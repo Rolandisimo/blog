@@ -1,4 +1,5 @@
 # What is the purpose of being an engineering manager?
+<small><em>Published on 29.11.2022</em></small>
 
 As an engineer I feel like this topic should be given proper care as whatever I write down here will in some way reflect on the engineers I manage at work.
 
