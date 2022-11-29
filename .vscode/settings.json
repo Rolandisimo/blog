@@ -1,9 +1,0 @@
-{
-  "grammarly.selectors": [
-    {
-      "language": "markdown",
-      "scheme": "file",
-      "pattern": "articles/2-how-i-started-this-blog.md"
-    }
-  ]
-}
