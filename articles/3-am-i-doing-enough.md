@@ -1,14 +1,14 @@
 # Am I doing enough?
 
 Imposter syndrome is a real thing and its not at the same time. I imagine most of us have had
-moments when you start a new job, join a group of people or are somehow tasked with solving a
-problem because of your expertise, that make you feel inadequate for challenge at hand.
+moments that make you feel inadequate - you start a new job, join a group of people or are somehow tasked with solving a
+problem because of your expertise.
 
 I feel like this notion comes from a place of anxiety. It in turn comes from fear of not being good enough,
 of not meeting some expectation, of losing face in front of others. Or perhaps out of fear of not meeting your own expectations.
 
 I started thinking about this after listening to a podcast from [Tim Ferriss where he interviewed Seth Godin](https://tim.blog/2016/02/10/seth-godin/).
-Mr. Godin discusses how such anxiety in his opininon comes from a place of ego. I find that an interesting thought - Our anxieties come from our ego.
+Mr. Godin discusses how such anxiety in his opinion comes from a place of ego. I find that an interesting thought - Our anxieties come from our ego.
 
 If you think about what ego is, and this is arguably a broad term for many, then at this moment
 I'd say it is an immutable image of self. Your qualities and experience based on which you decide
@@ -40,7 +40,9 @@ Wealth.
 
 My money handling skills could be improved. I try not to spend it on anything that I don't need.
 That doesn't mean I don't indulge myself in the addictions I have but I at least try to resist
-consumerism as much as I can. We're all human afterall. One day I was introduced to investing.
+consumerism as much as I can. We're all human afterall.
+
+One day I was introduced to investing.
 My life suddenly received an influx of discussions about pension funds, savings accounts, investment
 brokers, crypto, bonds, stocks, and all that jazz. My friends started talking about it,
 my colleagues shared their crypto stories. Later on my wife started to researching this topic
