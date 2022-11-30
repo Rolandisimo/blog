@@ -1,4 +1,5 @@
 # Am I doing enough?
+<small><em>Published on 30.11.2022</em></small>
 
 Imposter syndrome is a real thing and its not at the same time. I imagine most of us have had
 moments that make you feel inadequate - you start a new job, join a group of people or are somehow tasked with solving a
@@ -17,7 +18,7 @@ who is worthy of your time.
 
 I would, however, argue that it is immutable only until it is unconscious. The moment we face
 our ego, we ask the hard and scary questions to ourselves, that image becomes moldable like
-playdough. Once you are able to mold it, question is - will you? Are you ready to pull the 
+playdough. Once you are able to mold it, question is - will you? Are you ready to pull the
 carpet underneath your life and uproot some areas that you fully believe in?
 
 Returning, to the initial question of this article - am I doing enough?
@@ -50,7 +51,7 @@ in a fascinating way by diving really deep into a completely foreign topic and l
 
 Meanwhile, I felt this growing desire to reject all of this. I understand the benefits for having savings,
 for having multiple sources of income and how that gives you more freedom amongst other benefits.
-Still, something was bugging me on a deep level. 
+Still, something was bugging me on a deep level.
 
 "Being poor is not having too little, it is wanting more"
 
@@ -69,7 +70,7 @@ For the "Am I doing enough as an engineering manager" question, it could be a se
 team velocity ones such as "What is the target monthly throughput of tickets" to "Is the team meeting
 the key performance indicators (KPI) on a bi-weekly, monthly, yearly basis".
 
-Voila! See what just happened? The questions shifted from an anxiety, fear, ego standpoint to 
+Voila! See what just happened? The questions shifted from an anxiety, fear, ego standpoint to
 measurable, actionable metrics that you can break down alone or with the help of someone other
 than a therapist.
 
