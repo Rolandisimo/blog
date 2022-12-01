@@ -4,7 +4,7 @@ A collection of my thoughts and writings of various lengths. It can be anything 
 
 It's published [here][blogUrl]
 
-## Articles
+## Articles (descending order)
 
 - [How much to share with your boss?](https://github.com/Rolandisimo/blog/blob/main/articles/4-how-much-to-share-with-your-boss.md) <small><em>01.12.2022</em></small>
 - [Am I doing enough?](https://github.com/Rolandisimo/blog/blob/main/articles/3-am-i-doing-enough.md) <small><em>30.11.2022</em></small>
