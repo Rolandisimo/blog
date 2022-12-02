@@ -1,4 +1,5 @@
 # How much to share with your boss?
+<small><em>Published on 01.12.2022</em></small>
 
 I purposefuly left the question vague. I'll let you decide how you want to answer this question. Whether it is about sharing personal information or your emotional wellbeing or what you think about the direction the company is taking.
 

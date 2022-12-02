@@ -6,6 +6,8 @@ It's published [here][blogUrl]
 
 ## Articles (descending order)
 
+- [An engineering culture needs an engineering approach](https://github.com/Rolandisimo/blog/blob/main/articles/5-engineering-culture-needs-engineering.md) <small><em>02.12.2022</em></small>
+
 - [How much to share with your boss?](https://github.com/Rolandisimo/blog/blob/main/articles/4-how-much-to-share-with-your-boss.md) <small><em>01.12.2022</em></small>
 
 - [Am I doing enough?](https://github.com/Rolandisimo/blog/blob/main/articles/3-am-i-doing-enough.md) <small><em>30.11.2022</em></small>
