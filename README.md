@@ -6,6 +6,8 @@ It's published [here][blogUrl]
 
 ## Articles (descending order)
 
+- [Winter Swimming](https://github.com/Rolandisimo/blog/blob/main/articles/6-winter-swimming.md) <small><em>03.12.2022</em></small>
+
 - [An engineering culture needs an engineering approach](https://github.com/Rolandisimo/blog/blob/main/articles/5-engineering-culture-needs-engineering.md) <small><em>02.12.2022</em></small>
 
 - [How much to share with your boss?](https://github.com/Rolandisimo/blog/blob/main/articles/4-how-much-to-share-with-your-boss.md) <small><em>01.12.2022</em></small>
