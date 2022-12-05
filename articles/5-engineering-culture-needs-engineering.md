@@ -15,7 +15,7 @@ Following that, I started a frontend styleguide which would become the de-facto 
 
 I am extremely grateful to everyone who took part in this and moved the FE guild forward. Without the right mindset, this would have never happened and I'm happy people were receptive enough to allow me to contribute to this culture.
 
-To recap, here's what I think helped brake the ice and encourage others to feel like a community in Printify:
+To recap, here's what I think helped break the ice and encourage others to feel like a community in Printify:
 
 - **Lead by example**. <br/>
 <small>Show others that you care. Go the extra mile and do the work yourself.</small>
