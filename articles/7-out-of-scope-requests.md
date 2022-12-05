@@ -15,7 +15,7 @@ and asks to implement this small 3rd party tool they need. For one reason or ano
 
 Now, you have created a precedent where SuperSquad can ask the orders team to handle their technical needs.
 Next, SuperSquad needs to handle some analytics events. They come to you but you, as expected, are skeptical
-why do you need to handle this request. You do see the value in the task because your team and other teams would also
+why do you need to handle this request. You do, however, see the value in the task because your team and other teams would also
 benefit from having analytics.
 
 After some deliberation, you understand that no other team has any responsibility to deal with analytics.
