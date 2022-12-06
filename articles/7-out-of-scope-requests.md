@@ -1,4 +1,5 @@
 # Out of team scope requests
+<small><em>Published on 06.12.2022</em></small>
 
 <small><i>
 First, please understand that describing every unique case is beyond anyones capability. Therefore, when reading, try to seek patterns and similarities instead of a definitive description of every team there is. 🙏

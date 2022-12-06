@@ -6,6 +6,8 @@ It's published [here][blogUrl]
 
 ## Articles (descending order)
 
+- [How to read more](https://github.com/Rolandisimo/blog/blob/main/articles/8-how-to-read-more.md) <small><em>07.12.2022</em></small>
+
 - [Out of team scope requests](https://github.com/Rolandisimo/blog/blob/main/articles/7-out-of-scope-requests.md) <small><em>06.12.2022</em></small>
 
 - [Winter Swimming](https://github.com/Rolandisimo/blog/blob/main/articles/6-winter-swimming.md) <small><em>03.12.2022</em></small>
