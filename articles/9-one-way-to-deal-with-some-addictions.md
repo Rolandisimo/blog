@@ -68,13 +68,16 @@ Here's a list of things that helped me:
 <small>This requires a lot of effort but trust me it is worth every minute and cent you will spend on this activity. It can liberate you in ways you can't imagine.</small>
 
 - Journaling<br/>
-<small>Ideally a complementary activity to therapy but it can also be done as a standalone method. I suggest journaling daily. Remember that you don't have to write essays. A few sentences is better than nothing. At first it might feel awkward but trust me it gets better if you stick with it. Write to think!<sup>[4](https://medium.com/s/workflow/kevin-kelly-writes-to-find-out-what-he-doesnt-know-658ae1df1ae2)</sup></small>
+<sup><sub>Ideally a complementary activity to therapy but it can also be done as a standalone method. I suggest journaling daily. Remember that you don't have to write essays. A few sentences is better than nothing. At first it might feel awkward but trust me it gets better if you stick with it. Write to think!<sup>[4](https://medium.com/s/workflow/kevin-kelly-writes-to-find-out-what-he-doesnt-know-658ae1df1ae2)</sup></sub></sup>
 
 - Podcasts<br/>
-<small>Podcasts have exposed wonderful and even life-changing ideas to me. I mainly listen to Tim Ferriss, Dr. Andrew Huberman and sometimes Jock Willink.</small>
+<sup><sub>Podcasts have exposed wonderful and even life-changing ideas to me. I mainly listen to Tim Ferriss<sup>[5](https://tim.blog/)</sup>, Dr. Andrew Huberman and sometimes Jock Willink. I almost always listen to them in my car while driving somewhere.</sub></sup>
 
+Thank you for reading this and I hope this helps you or a relative/friend of yours. 🙇‍♂️
 
-Thank you for reading this and I hope this helps you or a relative/friend of yours. I've listed some resources below that might be helpful
+It's ok to not be ok. ❤️
+
+I've listed some resources below that might be helpful.
 
 <hr />
 
@@ -83,3 +86,4 @@ Thank you for reading this and I hope this helps you or a relative/friend of you
 2. https://www.youtube.com/watch?v=QmOF0crdyRU
 3. https://www.youtube.com/watch?v=H9B5mYfBPlY
 4. https://medium.com/s/workflow/kevin-kelly-writes-to-find-out-what-he-doesnt-know-658ae1df1ae2
+5. https://tim.blog/
