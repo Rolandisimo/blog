@@ -71,7 +71,13 @@ Here's a list of things that helped me:
 <small>Ideally a complementary activity to therapy but it can also be done as a standalone method. I suggest journaling daily. Remember that you don't have to write essays. A few sentences is better than nothing. At first it might feel awkward but trust me it gets better if you stick with it. Write to think!<sup>[4](https://medium.com/s/workflow/kevin-kelly-writes-to-find-out-what-he-doesnt-know-658ae1df1ae2)</sup></small>
 
 - Podcasts<br/>
-<small>Podcasts have exposed wonderful and even life-changing ideas to me. I mainly listen to Tim Ferriss<sup>[5](https://tim.blog/)</sup>, Dr. Andrew Huberman and sometimes Jock Willink. I almost always listen to them in my car while driving somewhere.</small>
+Podcasts have exposed wonderful and even life-changing ideas to me. I mainly listen to Tim Ferriss<sup>[5](https://tim.blog/)</sup>, Dr. Andrew Huberman and sometimes Jock Willink. I almost always listen to them in my car while driving somewhere.
+
+- Exercise<br/>
+Essential to clear my mind and improve my health. I do rock climbing and scuba diving.
+
+- Meditation<br/>
+I'm using the Waking Up app by Sam Harris<sup>[6](https://www.samharris.org/)</sup>. It does take time to get accustomed to but if you stick to it, it can open up your mind in incredible ways and allow you to relax.
 
 Thank you for reading this and I hope this helps you or a relative/friend of yours. 🙇‍♂️
 
@@ -87,3 +93,4 @@ I've listed some resources below that might be helpful.
 3. https://www.youtube.com/watch?v=H9B5mYfBPlY
 4. https://medium.com/s/workflow/kevin-kelly-writes-to-find-out-what-he-doesnt-know-658ae1df1ae2
 5. https://tim.blog/
+6. https://www.samharris.org/
