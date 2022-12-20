@@ -14,7 +14,7 @@ An addiction from my perspective is a craving that stems from the unconscious. I
 
 This means that an addiction is not only related to drugs. It can be anything that you crave more than might be healthy. Something that you might be ashamed of. Something that makes you feel like you can't stop even though you want to.
 
-For example, my addictions are the following:
+For example, some of my addictions are the following:
 - Snacks
 - Video games
 - Food
