@@ -6,7 +6,7 @@ It's published [here][blogUrl]
 
 ## Articles (descending order)
 
-- [Tools to deal with addictions](https://github.com/Rolandisimo/blog/blob/main/articles/9-tools-to-deal-with-some-addictions.md) <small><em>20.12.2022</em></small>
+- [My tools to deal with addictions](https://github.com/Rolandisimo/blog/blob/main/articles/9-tools-to-deal-with-some-addictions.md) <small><em>20.12.2022</em></small>
 
 - [How to read more](https://github.com/Rolandisimo/blog/blob/main/articles/8-how-to-read-more.md) <small><em>07.12.2022</em></small>
 

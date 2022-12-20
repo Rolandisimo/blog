@@ -1,4 +1,4 @@
-# Tools to deal with addictions
+# My tools to deal with addictions
 <small><em>Published on 20.12.2022</em></small>
 
 I have many addictions.
