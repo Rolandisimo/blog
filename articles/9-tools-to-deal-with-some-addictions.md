@@ -56,7 +56,7 @@ Now, I keep talking about all of this but how did I deal with some addictions?
 
 Here's a list of things that helped me:
 - "Atomic Habits" by James Clear<br/>
-<small>This is a treasure trove of tools and heuristics of how to build good habits and stop bad habits. It's very practical and quick to read.</small>
+<small>This is a treasure trove of tools and heuristics of how to build good habits and stop bad habits. It's very practical and quick to read. This point can be substituted by just "Reading Books" as those have taught me a tremendous amount.</small>
 
 - Accountability Partner<br/>
 <small>Someone that can keep you accountable to upkeep your commitments to fight the addiction e.g. ask them to check your progress periodically. It's best that this is someone you respect and even look up to.</small>
