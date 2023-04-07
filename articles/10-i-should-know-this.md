@@ -22,7 +22,7 @@ The problem with that is that you don't get to pick when and how those feelings 
 
 What kind of dynamic do you think that creates in the relationship?
 
-Now, the other approach is compassione.
+Now, the other approach is compassion.
 
 If I'm ready and brave enough to be kind and vulnerable then to the phrase "I am stupid" the response can be - What makes you stupid? Here's an example conversation:
 
@@ -56,7 +56,7 @@ What's my point?
 
 You're not stupid. You're hurt. However, being vulnerable and opening up is a frightening and herculean task. Sometimes it's easier to use potentially damaging logic for such situations and disregard the feelings.
 
-Ah what's the big deal anyways, right? Right? Trust me. It becomes a big deal when you want it the least.
+Ah what's the big deal anyways, right? Right? Trust me. It becomes a big deal when you want it the least if you don't address your feelings honestly. 
 
 <hr />
 
