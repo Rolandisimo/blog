@@ -6,6 +6,8 @@ It's published [here][blogUrl]
 
 ## Articles (descending order)
 
+- [The Feeling Is Valid](https://github.com/Rolandisimo/blog/blob/main/articles/11-listening-to-yourself.md) <small><em>15.12.2023</em></small>
+
 - [When you feel stupid or incompetent](https://github.com/Rolandisimo/blog/blob/main/articles/10-i-should-know-this.md) <small><em>08.04.2023</em></small>
 
 - [My tools to deal with addictions](https://github.com/Rolandisimo/blog/blob/main/articles/9-tools-to-deal-with-some-addictions.md) <small><em>20.12.2022</em></small>
