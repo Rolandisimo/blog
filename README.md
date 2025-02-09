@@ -4,6 +4,11 @@ A collection of my thoughts and writings of various lengths. It can be anything 
 
 It's published [here][blogUrl]
 
+## Short stories
+I also started writing short stories as I got interested in exploring narratives.
+[I post them on my notion](https://flat-attempt-527.notion.site/Stories-19559f572fb08058b0dcd3551093ed30)
+
+
 ## Articles (descending order)
 
 - [The Feeling Is Valid](https://github.com/Rolandisimo/blog/blob/main/articles/11-listening-to-yourself.md) <small><em>15.12.2023</em></small>
