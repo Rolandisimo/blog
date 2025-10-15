@@ -10,6 +10,7 @@ I also started writing short stories as I got interested in exploring narratives
 
 
 ## Articles (descending order)
+- [I Fear How AI Will Impact The Quality Of Engineers In My Teams](https://github.com/Rolandisimo/blog/blob/main/articles/12-ai-in-competence-out.md) <small><em>15.10.2025</em></small>
 
 - [The Feeling Is Valid](https://github.com/Rolandisimo/blog/blob/main/articles/11-listening-to-yourself.md) <small><em>15.12.2023</em></small>
 
