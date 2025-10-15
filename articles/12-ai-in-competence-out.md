@@ -1,4 +1,9 @@
-# I'm an EM and this is how I think AI might impact the engineering in my teams 
+# I'm an EM and this is how I think AI might impact the engineering in my teams</br>
+<sub>P.S. No, I did not use AI to write this. :) </sub>
+
+<small><em>Published on <date>15.10.2025</date></em></small>
+
+</hr>
 
 > *Klarna, the buy-now-pay-later unicorn, fired 700 employees last year [2024] claiming AI could do their tasks. However, within a year they were on a hiring spree and their CEO stated, “[what you end up having is lower quality](https://fortune.com/2025/05/09/klarna-ai-humans-return-on-investment/)…investing in the quality of the human support is the way of the future for us.”
 https://fortune.com/2025/05/09/klarna-ai-humans-return-on-investment/*
