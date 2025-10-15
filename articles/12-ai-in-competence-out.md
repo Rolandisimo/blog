@@ -1,4 +1,4 @@
-# I'm an EM and this is how I think AI might impact the engineering in my teams</br>
+# As an Engineering Manager, I worry that AI will degrade engineering quality in my teams</br>
 <sub>P.S. No, I did not use AI to write this. :) </sub>
 
 <small><em>Published on <date>15.10.2025</date></em></small>
