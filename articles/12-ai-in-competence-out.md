@@ -9,17 +9,19 @@
 https://fortune.com/2025/05/09/klarna-ai-humans-return-on-investment/*
 > 
 
-I don’t want to come across as a fear-mongerer. The reason I’m interested in this topic is because I see signals that hint at a growing bubble of incompetence. Which means we will only see the effects months or years later. As EMs, each of you will have to deal with outcomes of LDD or LLM Driven Development.
+I don’t want to come across as a fear-mongerer. The reason I’m interested in this topic is because I see signals that hint at a growing bubble of incompetence. Which means we will only see the effects months or years later. As an Engineering Manager (EM), I will have to deal with the outcomes of LDD or LLM Driven Development.
 
 I’ve seen vibe coding cleanup jobs on linkedin
 
 I’ve seen juniors write heavily AI inspired code that they then don’t understand and can’t fix.
 
-I’ve seen engineers who barely can put together a coherent sentence, write documents with the eloquence of Shakespear *(and here the point is the contrast, not the ability of the engineer)*
+I’ve seen engineers who barely can put together a coherent sentence, write documents with the eloquence of Shakespear but then they're unable to communicate their ideas in a meeting *(and here the point is the contrast, not the ability of the engineer)*
 
-Code reviews can be done by AI now. So an engineer doesn’t even need to try too hard to read the code. AI thinks its ok? Then let me just skim over in 10 seconds.
+Code reviews can be done by AI now. So an engineer doesn’t even need to try too hard to read the code. AI thinks its ok? Then let me just skim over in 10 seconds. You might say that we engineers already do that. If you're a developer, you've heard the joke of big code changes are approved in 7 seconds but small changes are reviewed for 7 days.
 
-Something feels off. And I know there are others that feel the same way.
+Something feels off.
+
+And I know there are others that feel the same way.
 
 > *[…] without real understanding behind the work, organizations are trading short-term efficiency for, possibly, long-term fragility
 https://www.ie.edu/insights/articles/is-ai-creating-incompetent-experts/*
@@ -27,9 +29,9 @@ https://www.ie.edu/insights/articles/is-ai-creating-incompetent-experts/*
 
 We’re at an interesting point where there isn’t a critical mass of engineers with many years/decades of experience that have also been using AI for the majority of their career.
 
-So when talking with senior engineers that adopted LLMs in their daily life, you hear how great LLMs has been at increasing their productivity. How this tool helps them to complete mundane, boring tasks with ease. 
+So when talking with senior engineers that adopted LLMs in their daily life, you hear how great LLMs have been at increasing their productivity. How they help to complete mundane, boring tasks with ease. 
 
-What is fascinating to me is that there’s been many reports *(maybe even in Printify)* that found virtually no impact on productivity. Some even noticed decrease in speed.
+What is fascinating to me is that there’s been reports that found virtually no impact on productivity. Some even noticed decrease in speed.
 
 > *it isn’t worth speeding up the coding process if it slows down the debugging process, because you can waste a lot more time debugging bad code than you can getting over coding block.
 https://www.reddit.com/r/ExperiencedDevs/comments/1lwk503/study_experienced_devs_think_they_are_24_faster/*
